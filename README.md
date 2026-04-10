@@ -1,2 +1,2 @@
 # projeto-loja
-Um projeto
+Um projeto feito para praticar o aprendizado na criatividade
